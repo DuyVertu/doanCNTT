@@ -595,10 +595,10 @@
                     <h3 style="color: white;">Liên Hệ</h3>
                     <p style="font-weight: 200;color: white;">
                         ✉
-                        <a href="mailto:khoavt123456789@gmail.com" target="_blank">khoavt123456789@gmail.com</a>
+                        <a href="mailto:nguyenkhanhduy0114@gmail.com" target="_blank">nguyenkhanhduy0114@gmail.com</a>
                         <br>
                         ✉
-                        <a href="mailto:khoavt123456789@gmail.com" target="_blank">khoavt123456789@gmail.com</a>
+                        <a href="mailto:nguyenkhanhduy0114@gmail.com" target="_blank">nguyenkhanhduy0114@gmail.com</a>
                     </p>
                 </div>
                 <div class="info-1-2">
